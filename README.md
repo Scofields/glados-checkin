@@ -15,6 +15,6 @@
 
 1、打开 https://github.com/glados-network/GLaDOS ，找到[Register](https://glados.rocks/)，填写邮箱进行登录。
 
-2、输入激活码`WTPGE-CZYW7-1O7PV-ZC6JY`，进行激活，获得3天试用。
+2、输入激活码`N7ZDC-0VBHU-386A8-81UQM`，进行激活，获得3天试用。
 
 3、每天进行checkin一次，增加一天。
