@@ -26,4 +26,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Checkin
       run: |
-        python3 action.py
+        python3 checkin.py
+      env: 
+        SERVE: ${{ secrets.SERVE }}
+        SCKEY: ${{ secrets.SCKEY }}
+        COOKIE: ${{ secrets.COOKIE }}
