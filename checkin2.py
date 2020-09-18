@@ -1,7 +1,7 @@
 import requests,json,os
 
 # 填入glados账号对应cookie
-cookie = os.environ["COOKIE2"]
+cookie = "eyJ1c2VySWQiOjUxODk1LCJfZXhwaXJlIjoxNjI2MzM2ODM1NjAwLCJfbWF4QWdlIjoyNTkyMDAwMDAwMH0="
 
 
 def start():    
